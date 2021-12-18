@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738963987051",
+    "project_id": "fir-inappmessaging-11cc9",
+    "storage_bucket": "fir-inappmessaging-11cc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738963987051:android:87b6b342eefd287cd86f2e",
+        "android_client_info": {
+          "package_name": "com.example.firebaseinappmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738963987051-15aumkcqjkfcrfre3t6kro5mdlba5pir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4pFULfQkrYacaMAhhwE9X_rQJT52btQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738963987051-15aumkcqjkfcrfre3t6kro5mdlba5pir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
